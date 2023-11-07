@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "target": "ESNext",
+        "sourceMap": true,
+        "rootDir": "./src",
+        "outDir": "dist",
+        
+
+    },
+    "include": ["src/**/*", "src/client"]
+}
